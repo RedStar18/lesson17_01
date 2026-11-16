@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\VS 2026\\lesson17_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A52823DB-F85A-4B59-8080-D960EAAD398C}|lesson17_01\\lesson17_01.vcxproj|F:\\VS 2026\\lesson17_01\\lesson17_01\\lesson17_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A52823DB-F85A-4B59-8080-D960EAAD398C}|lesson17_01\\lesson17_01.vcxproj|solutionrelative:lesson17_01\\lesson17_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52823DB-F85A-4B59-8080-D960EAAD398C}|lesson17_01\\lesson17_01.vcxproj|F:\\VS 2026\\lesson17_01\\lesson17_01\\math_2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A52823DB-F85A-4B59-8080-D960EAAD398C}|lesson17_01\\lesson17_01.vcxproj|solutionrelative:lesson17_01\\math_2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52823DB-F85A-4B59-8080-D960EAAD398C}|lesson17_01\\lesson17_01.vcxproj|F:\\VS 2026\\lesson17_01\\lesson17_01\\math_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A52823DB-F85A-4B59-8080-D960EAAD398C}|lesson17_01\\lesson17_01.vcxproj|solutionrelative:lesson17_01\\math_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "math_2.cpp",
+              "DocumentMoniker": "F:\\VS 2026\\lesson17_01\\lesson17_01\\math_2.cpp",
+              "RelativeDocumentMoniker": "lesson17_01\\math_2.cpp",
+              "ToolTip": "F:\\VS 2026\\lesson17_01\\lesson17_01\\math_2.cpp",
+              "RelativeToolTip": "lesson17_01\\math_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-16T14:33:48.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "math_2.h",
+              "DocumentMoniker": "F:\\VS 2026\\lesson17_01\\lesson17_01\\math_2.h",
+              "RelativeDocumentMoniker": "lesson17_01\\math_2.h",
+              "ToolTip": "F:\\VS 2026\\lesson17_01\\lesson17_01\\math_2.h",
+              "RelativeToolTip": "lesson17_01\\math_2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-16T14:33:31.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lesson17_01.cpp",
+              "DocumentMoniker": "F:\\VS 2026\\lesson17_01\\lesson17_01\\lesson17_01.cpp",
+              "RelativeDocumentMoniker": "lesson17_01\\lesson17_01.cpp",
+              "ToolTip": "F:\\VS 2026\\lesson17_01\\lesson17_01\\lesson17_01.cpp",
+              "RelativeToolTip": "lesson17_01\\lesson17_01.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-16T14:17:47.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
